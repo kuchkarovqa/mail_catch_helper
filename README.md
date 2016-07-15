@@ -1,7 +1,7 @@
 # mail_catch_helper
 Simple mailcatcher helper
 
-How:
+#How:
 server = "http://localhost:64555"
 mailcatcher = MailCatchHelper.new(server)
 messages = mailcatcher.get_messages

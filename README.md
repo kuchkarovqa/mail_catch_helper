@@ -1,4 +1,4 @@
-# mail_catch_helper
+# Mailcatcher ruby helper
 Simple mailcatcher helper
 
 ## How:
@@ -13,4 +13,5 @@ message.sender
 message.recipients
 message.subject
 message.created_at
-message.body```
+message.body
+```
